@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Download Manager</string>
+    <string name="fcfs">FCFS</string>
+    <string name="sjf">SJF</string>
+</resources>
